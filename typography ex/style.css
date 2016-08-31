@@ -1,0 +1,136 @@
+@font-face {
+    font-family: futura;
+    src: url(fonts/Futura-Light.ttf)
+}
+@font-face {
+    font-family: fette;
+    src: url(fonts/FetteClassicUNZFraktur.ttf)
+}
+@font-face {
+    font-family: bickham;
+    src: url(fonts/Bickham-Script-Three.ttf)
+}
+@font-face {
+    font-family: kingthings;
+    src: url(fonts/Kingthings-Spikeless.ttf)
+}
+@font-face {
+    font-family: mrsheppards;
+    src: url(fonts/Mr-Sheppards.ttf)
+}
+@font-face {
+    font-family: garreg;
+    src: url(fonts/garreg.ttf)
+}
+
+@font-face {
+    font-family: davysdingbats;
+    src: url(fonts/DavysDingbats.ttf)
+}
+
+@font-face {
+    font-family: fauxsnow;
+    src: url(fonts/fauxsnow.ttf)
+}
+#container {
+	width: 50%;
+	margin: 0 auto;
+}
+#container h1 {
+	text-align: center;
+	font-family: sans-serif;
+}
+#title {
+	height: 50px;
+	background: #8B7B72;
+}
+.sampletext {
+  	display: flex;
+    -webkit-flex-flow: row wrap;
+  	justify-content: space-around;
+}
+.white {
+    background-color: white;
+}
+
+.mustard {
+    background-color: #FCFBD8;
+}
+
+.black {
+    background-color: #373934;
+	color: #Fff;
+}
+
+.gray {
+    background-color: #FCFBE9;
+}
+.fonts {
+	text-align: center;
+	margin: auto;
+	width: 320px;
+	height: 100px;
+}
+.fonts h2 {
+	font-size: 30px;
+	line-height: 10px;
+}
+.fonts p {
+	font-size: 15px;
+	line-height: 0;
+}
+.types {
+	width: 100px;
+	height: 50px;
+	background: #907F74;
+}
+.types h3 {
+	font-size: 15px;
+	color: #fff;
+	font-family: sans-serif;
+}
+.helve {
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+}
+.futura {
+    font-family: futura;
+}
+.bickham {
+    font-family: bickham;
+    color: #fff;
+}
+.kingthings {
+    font-family: kingthings;
+}
+.mrsheppards {
+    font-family: mrsheppards;
+    color: #fff;
+}
+.droidserif {
+	font-family: 'Droid Serif', serif;
+}
+.ptserif {
+	font-family: 'PT Serif', serif;
+}
+.berkshireswash {
+	font-family: 'Berkshire Swash', cursive;	
+}
+.fascinateinline {
+	font-family: 'Fascinate Inline', cursive;	
+}
+.ewert {
+	font-family: 'Ewert', cursive;	
+}
+.davysdingbats p {
+	font-family: davysdingbats;
+}
+.davysdingbats h2 {
+	font-family: sans-serif;
+}
+.fauxsnow p {
+	font-family: fauxsnow;
+}
+.fauxsnow h2 {
+	font-family: sans-serif;
+}
